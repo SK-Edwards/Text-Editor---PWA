@@ -17,7 +17,7 @@ Clone GitHub Repo check out the package.json and install npm packages required. 
 # Credits
 
 * Shamaary Edwards
-* 
+
 
 # License 
   The MIT License
