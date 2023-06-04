@@ -6,6 +6,7 @@
 
 Given starter code with the challenge to make the application operational.
 
+![*](https://github.com/SK-Edwards/Text-Editor---PWA/blob/main/image/Screenshot%202023-06-03%20210058.png?raw=true)
 
 # Usage / Installation
 
